@@ -40,7 +40,7 @@
     "url": "https://github.com/veliovgroup/josk/issues"
   },
   "homepage": "https://github.com/veliovgroup/josk",
-  "author": "dr.dimitru (https://veliovgroup.com)",
+  "author": "dr.dimitru (https://veliovgroup.com), EndorseFlow (https://endorseflow.com)",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=8.9.0"
@@ -53,5 +53,8 @@
     "mongodb": "^3.6.4",
     "pathval": "^1.1.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "human-interval": "^2.0.1",
+    "nanoid": "^3.1.12"
+  }
 }
